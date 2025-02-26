@@ -1,0 +1,17 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+   "start": "nodemon app.js",
+   "test": "nodemon test.js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.3.0"
+  }
+}

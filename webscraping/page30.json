@@ -1,0 +1,125 @@
+[
+  {
+    "brandname": "Tecno",
+    "Model Year": "2024",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "2",
+    "Camera Front (Megapixels)": "8",
+    "Camera Back (Megapixels)": "13",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 13,889"
+  },
+  {
+    "brandname": "Vivo",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "2",
+    "Camera Front (Megapixels)": "5",
+    "Camera Back (Megapixels)": "13",
+    "Screen Size (inches)": "6.1 - 6.5 Inch",
+    "ram": "4GB",
+    "storage": "64GB",
+    "pricevalue": "Rs. 13,299"
+  },
+  {
+    "brandname": "No Brand",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "3",
+    "Camera Front (Megapixels)": "5",
+    "Camera Back (Megapixels)": "8",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "4GB",
+    "storage": "64GB",
+    "pricevalue": "Rs. 8,888"
+  },
+
+  {
+    "brandname": "Google",
+    "Model Year": "2023",
+    "Battery Capacity": "4000 - 4999 mAh",
+    "Number Of Cameras": "2",
+    "Camera Front (Megapixels)": "10.5",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.1 - 6.5 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 95,000"
+  },
+  {
+    "brandname": "Samsung",
+    "Model Year": "Not Specified",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "12",
+    "Camera Back (Megapixels)": "200",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "12GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 159,999"
+  },
+  {
+    "brandname": "OnePlus",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "3",
+    "Camera Front (Megapixels)": "16",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "12GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 36,879"
+  },
+  {
+    "brandname": "Nothing",
+    "Model Year": "Not Specified",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "2",
+    "Camera Front (Megapixels)": "32",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 45,999"
+  },
+  {
+    "brandname": "Redmi",
+    "Model Year": "Not Specified",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "16",
+    "Camera Back (Megapixels)": "200",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 47,999"
+  },
+  {
+    "brandname": "No Brand",
+    "Battery Capacity": "4000 - 4999 mAh",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "Camera Front (Megapixels)": "8",
+    "Camera Back (Megapixels)": "50",
+    "Number Of Cameras": "2",
+    "Model Year": "2023",
+    "ram": "8GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 24,999"
+  },
+  {
+    "brandname": "Honor",
+    "Model Year": "2023",
+    "Battery Capacity": "6000 - 6999 mAh",
+    "Number Of Cameras": "3",
+    "Camera Front (Megapixels)": "8",
+    "Camera Back (Megapixels)": "108",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 24,999"
+  }
+
+
+]
