@@ -3,7 +3,7 @@ import fs from "fs";
 import getbrandkoname from "./brandName.js";
 
 const scrapdata = async () => {
-  const url_web = "https://www.daraz.com.np/catalog/?page=32&q=mobile";
+  const url_web = "https://www.daraz.com.np/catalog/?page=15&q=mobile";
 
   const browser = await puppeteer.launch({
     headless: false,
@@ -171,8 +171,8 @@ const scrapdata = async () => {
     divs = await page.$$(".Bm3ON");
   }
 
-  fs.writeFileSync("page32.json", JSON.stringify(allProductDetails, null, 2));
-  console.log("Data saved to page32.json");
+  fs.writeFileSync("page15.json", JSON.stringify(allProductDetails, null, 2));
+  console.log("Data saved to page15.json");
 
   // await browser.close();
   console.log("browser is closed now ");

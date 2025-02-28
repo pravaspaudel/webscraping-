@@ -1,0 +1,39 @@
+[
+  {
+    "brandname": "Samsung",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "32MP",
+    "Camera Back (Megapixels)": "Triple 50MP+2MP+5MP",
+    "Screen Size (inches)": "6.1 - 6.5 Inch",
+    "ram": "8GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 59,999"
+  },
+ 
+  {
+    "brandname": "OnePlus",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "16MP",
+    "Camera Back (Megapixels)": "50MP + 8MP + 2MP",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "16GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 57,999"
+  },
+  {
+    "brandname": "Samsung",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "13MP",
+    "Camera Back (Megapixels)": "Triple 50MP+2MP+2MP",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "6GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 27,999"
+  }
+]

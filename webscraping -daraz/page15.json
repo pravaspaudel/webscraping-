@@ -1,0 +1,98 @@
+[
+  {
+    "brandname": "Realme",
+    "Model Year": "2023",
+    "Number Of Cameras": "3",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Camera Front (Megapixels)": "32MP",
+    "Camera Back (Megapixels)": "200MP+8MP+2MP",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "12GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 53,999"
+  },
+  {
+    "brandname": "Nothing",
+    "Model Year": "2023",
+    "Battery Capacity": "4000 - 4999 mAh",
+    "Number Of Cameras": "2",
+    "Camera Front (Megapixels)": "32",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "12GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 75,699"
+  },
+  {
+    "brandname": "Samsung",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "13",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 46,999"
+  },
+  {
+    "brandname": "Realme",
+    "Model Year": "2024",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "16",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "256GB",
+    "pricevalue": "Rs. 33,999"
+  },
+  {
+    "brandname": "Nokia",
+    "Model Year": "2023",
+    "Battery Capacity": "1000 - 1999 mAh",
+    "Number Of Cameras": "0",
+    "Camera Front (Megapixels)": "0",
+    "Camera Back (Megapixels)": "0",
+    "Screen Size (inches)": "Less than 3.5 Inch",
+    "ram": "Other\nOther",
+    "storage": "1GB",
+    "pricevalue": "Rs. 2,999"
+  },
+  {
+    "brandname": "No Brand",
+    "Battery Capacity": "2000 - 2999 mAh",
+    "Screen Size (inches)": "4.6 - 5 Inch",
+    "Camera Front (Megapixels)": "2 MP",
+    "Camera Back (Megapixels)": "8MP",
+    "Number Of Cameras": "2",
+    "Model Year": "2016",
+    "ram": "3GB",
+    "storage": "16GB",
+    "pricevalue": "Rs. 9,299"
+  },
+  {
+    "brandname": "Samsung",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "32MP",
+    "Camera Back (Megapixels)": "Triple 50MP+12MP+5MP",
+    "Screen Size (inches)": "6.1 - 6.5 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 56,999"
+  },
+  {
+    "brandname": "Samsung",
+    "Model Year": "2023",
+    "Battery Capacity": "5000 - 5999 mAh",
+    "Number Of Cameras": "4",
+    "Camera Front (Megapixels)": "13",
+    "Camera Back (Megapixels)": "50",
+    "Screen Size (inches)": "6.6 - 7 Inch",
+    "ram": "8GB",
+    "storage": "128GB",
+    "pricevalue": "Rs. 29,999"
+  }
+]
